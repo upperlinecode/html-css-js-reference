@@ -6,7 +6,7 @@ HTML stands for hypertext markup language. It tells WHAT will be on the page, no
     * [The HTML Shell](#the-html-shell)
     * [Header](#header)
     * [Paragraph](#paragraph)
-    * [Links (anchors)](#a)
+    * [Links (anchors)](#links-anchors)
     * [Images](#images)
     * [Line breaks](#line-breaks)
     * [Divs](#divs)
